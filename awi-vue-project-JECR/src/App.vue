@@ -1,14 +1,12 @@
-<script setup>
-import MainView from './views/MainView.vue';
-</script>
-
 <template>
-  <MainView></MainView>
+    <MainView></MainView>
 </template>
 
+<script setup>
+import MainView from './views/MainView.vue';
 
+</script>
 
 <style scoped>
-
 
 </style>
